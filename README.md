@@ -47,7 +47,7 @@ Sample dataset (generated dummy data)
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/Instagram-Clone-Project.git
+git clone https://github.com/Pravallikajangamreddy01/Instagram-Clone-Project.git
 cd Instagram-Clone-Project
 
 
